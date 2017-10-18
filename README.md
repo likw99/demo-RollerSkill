@@ -100,4 +100,3 @@ To get more information about how to get started in Bot Builder for Node please 
 * [Build a speech-enabled bot with Cortana Skills](https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-cortana-skill)
 * [The Cortana Skills Kit](https://docs.microsoft.com/en-us/cortana/getstarted)
 * [Creating a Skill from Scratch using Bot Framework](https://docs.microsoft.com/en-us/cortana/tutorials/bot-skills/add-bot-to-cortana-channel)
-元素检查点数据中心使用参数使用                         mouseover录制模拟键盘输入模拟左键单击右键单击录制元素拖拽录制滚动录制                         文件上传录制日期控件录制                         元素精确选择元素参数创建                         鼠标左键单击鼠标mouseover
